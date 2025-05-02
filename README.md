@@ -170,18 +170,9 @@ COMMENT
 ---
 
 Task on Comment
-1. Single-line comment: using vim to create a shell file name shell-comment.sh.
-https://imgur.com/FIhiG6V
-example of a single-line comment
-https://imgur.com/Ud8zJFi in the image it shows a code written and some comment made between it. This is a single line comment ie comment on just a line. This start with #. When executed the comments are ignored
 
-2. Multi-line comment:  using vim to create a shell file name multi-comment.sh.
-https://imgur.com/XBGf2nP . In the image link this shows multiple comments ie comments on more than one line. each has # as the starting.
-same as single-line all the comment are ignored during execution
-https://imgur.com/EhQZ2jb
-
-3. Problem with not commenting your work will make your code difficult to read. 
-Also forgeting to use # at the start of comment
-https://imgur.com/w4Dhz5U
-This will make the code wants to read the comment as command and this can give error.
-https://imgur.com/XzHEBEG
+showing the difference between single line and multi line comment. A single line comment is a comment on a single line of the code while multi line takes more a line of a code.
+creating a file name commented_script.sh with vim. Example of single line and multi link is shown in the image as it were stated above in this writeup.
+https://imgur.com/HicKvI0
+Then running it you will only get the output of the command and it will ignore the comments
+https://imgur.com/coYu9Kn
